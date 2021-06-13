@@ -15,7 +15,7 @@
 
 <br />
 
-_Add me on LinkedIn_ [<img align="left" height="32" width="32" target="_blank" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/john-solano/)
+_Add me on LinkedIn_ [<img align="left" height="32" width="32" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />](https://www.linkedin.com/in/john-solano/)
 
 
 <!--

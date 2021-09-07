@@ -4,7 +4,7 @@
 
 - 🏙 I'm located in **NYC**
 - 👨🏼‍🎓 I've graduated with a **BA in Computer Science with a Minor in Mathemathics** from CUNY Hunter College 
-- 🔭 I’m currently working as a **Solutions Engineer** at PandoLogic
+- 🔭 I’m currently working as a **Solutions Engineer** at Fyber
 - ⚡ Fun fact: I enjoy investing, gaming (playing and developing), food and going on adventures. 
 
 <br />

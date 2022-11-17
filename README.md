@@ -5,7 +5,7 @@
 - 🏙 I'm located in **NYC**
 - 👨🏼‍🎓 I've graduated with a **BA in Computer Science with a Minor in Mathemathics** from CUNY Hunter College 
 - 🔭 I’m currently working as a **Solutions Engineer** at Digital Turbine & teach the fundamentals of Database Systems at CUNY Lehman College
-- ⚡ Fun fact: I enjoy investing, gaming (playing and developing), food and going on adventures. 
+- ⚡ Fun facts: I enjoy investing, gaming (playing, developing & monetizing games via ads), going to new restaurants and hiking.
 
 <br />
 
